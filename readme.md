@@ -1,16 +1,10 @@
 ### Hola!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/JJorMartin">
-  <img align="left" alt="Jorge Martin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/juanjorgemartin20/">
-  <img align="left" alt="Jorge LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
 <br />
 
-Hola, Soy Jorge Martin, un apasionado del mundo tecnologico que se animo a dar un gran e imporante paso para aventurarse y entrar al mundo IT. Actualmente estoy terminando mis proyectos de [Acamica](https://github.com/acamica) en la cual realice la carrera de Desarrollo Web Full Stack.
+Soy Jorge Martin, un apasionado del mundo tecnologico que se animo a dar un gran e imporante paso para aventurarse y entrar al mundo IT. Actualmente estoy terminando mis proyectos de [Acamica](https://github.com/acamica) en la cual realice la carrera de Desarrollo Web Full Stack.
 
 Estoy totalmente decidido y comprometido a aprender y poner todo de mi para poder hacerme paso en este mundo y hacer de a poco mi camino como Dev Full stack . Aunque admito que me apasiona mas el backend con sus bases de datos :smile:
 
@@ -20,6 +14,12 @@ Estoy totalmente decidido y comprometido a aprender y poner todo de mi para pode
 - 💬 Estoy feliz de aprender y si me queres ayudar;
 - 📫 Dejame un MD [Jorge Martin](https://twitter.com/JJorMartin);
 - 📝 Por aca dejo mi [CV](https://drive.google.com/file/d/1Eh91znStc1y1771YvTDyi24cZIETm_a0/view?usp=sharing)
+<a href="https://twitter.com/JJorMartin">
+  <img align="left" alt="Jorge Martin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/juanjorgemartin20/">
+  <img align="left" alt="Jorge LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 **Lenguajes y herramientas:**  
 
