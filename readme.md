@@ -4,7 +4,7 @@
 
 <br />
 
-Soy Jorge Martin, un apasionado del mundo tecnologico que se animo a dar un gran e imporante paso para aventurarse y entrar al mundo IT. Actualmente estoy terminando mis proyectos de [Acamica](https://github.com/acamica) en la cual realice la carrera de Desarrollo Web Full Stack.
+Soy Jorge Martin, un apasionado del mundo tecnologico :computer: que se animo a dar un gran e importante paso para aventurarse y entrar al mundo IT. Actualmente estoy terminando mis proyectos de [Acamica](https://github.com/acamica) en la cual realice la carrera de Desarrollo Web Full Stack.
 
 Estoy totalmente decidido y comprometido a aprender y poner todo de mi para poder hacerme paso en este mundo y hacer de a poco mi camino como Dev Full stack . Aunque admito que me apasiona mas el backend con sus bases de datos :smile:
 
@@ -22,7 +22,7 @@ Estoy totalmente decidido y comprometido a aprender y poner todo de mi para pode
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/hmtl/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
