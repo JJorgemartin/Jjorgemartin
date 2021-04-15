@@ -14,14 +14,6 @@ Estoy totalmente decidido y comprometido a aprender y poner todo de mi para pode
 - 💬 Estoy feliz de aprender y si me queres ayudar;
 - 📫 Dejame un MD [Jorge Martin](https://twitter.com/JJorMartin);
 - 📝 Por aca dejo mi [CV](https://drive.google.com/file/d/1Eh91znStc1y1771YvTDyi24cZIETm_a0/view?usp=sharing)
-<a href="https://twitter.com/JJorMartin">
-  <img align="left" alt="Jorge Martin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/juanjorgemartin20/">
-  <img align="left" alt="Jorge LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
 
 **Lenguajes y herramientas:**  
 
@@ -45,6 +37,14 @@ SCSS         2 hrs 25 mins   ████░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<a href="https://twitter.com/JJorMartin">
+  <img align="left" alt="Jorge Martin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/juanjorgemartin20/">
+  <img align="left" alt="Jorge LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
 
 
 
