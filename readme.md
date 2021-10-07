@@ -13,7 +13,7 @@ Estoy totalmente decidido y comprometido a aprender y poner todo de mi para pode
   
 - 💬 Estoy feliz de aprender y si me queres ayudar;
 - 📫 Dejame un MD [Jorge Martin](https://twitter.com/JJorMartin);
-- 📝 Por aca dejo mi [CV](https://drive.google.com/file/d/1oBCRsJF84_jBzdNoWtz1fMueW2xpHHHP/view?usp=sharing)
+- 📝 Por aca dejo mi [CV](https://drive.google.com/file/d/1gO2kMu4Mj4ThFPgEtT4vrZrEUJILwUJh/view?usp=sharing)
 
 **Lenguajes y herramientas:**  
 
