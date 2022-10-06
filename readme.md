@@ -6,13 +6,12 @@
 
 Soy Jorge Martin, un apasionado del mundo tecnologico :computer: que se animo a dar un gran e importante paso para aventurarse y entrar al mundo IT.
 
-Estoy totalmente decidido y comprometido a aprender y poner todo de mi para poder hacerme paso en este mundo y hacer de a poco mi camino como DevOps.
+Estoy totalmente decidido y comprometido a aprender y poner todo de mi para poder crecer en mi carrera como DevOps Engineer.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Estoy feliz de aprender y si me queres ayudar;
-- 📫 Dejame un MD [Jorge Martin](https://twitter.com/JJorMartin);
+  
 - 📝 Por aca dejo mi [CV](https://drive.google.com/file/d/11d1lz26lM0BBwZd8pbo7bT5R0yfb0pjT/view?usp=sharing)
 
 **Lenguajes y herramientas:**  
