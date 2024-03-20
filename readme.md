@@ -12,7 +12,7 @@ Estoy totalmente decidido y comprometido a aprender y poner todo de mi para pode
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   
-- 📝 Por aca dejo mi [CV](https://drive.google.com/file/d/11d1lz26lM0BBwZd8pbo7bT5R0yfb0pjT/view?usp=sharing)
+- 📝 Por aca dejo mi [CV]([https://drive.google.com/file/d/11d1lz26lM0BBwZd8pbo7bT5R0yfb0pjT/view?usp=sharing](https://drive.google.com/file/d/1dmHY-h6pw75SX7rsUOfRRHPoCErziKV5/view?usp=drive_link))
 
 **Lenguajes y herramientas:**  
 
